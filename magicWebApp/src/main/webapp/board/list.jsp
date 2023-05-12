@@ -10,7 +10,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <%
-// 	넘어오는 페이지 번호를 변수에 저장
+// 	넘어오는 페이지 번호를 변수에 저장.
 	String pageNum = request.getParameter("pageNum");
 	
 // 	넘어오는 페이지 번호가 없으면 1페이지
